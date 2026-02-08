@@ -5,7 +5,7 @@ Code of FDAFusion:A Frequency-Domain Amplitude-Phase Modulation-Based Method for
 Due to file size issues, the training set has been removed from the code and the MSRS dataset can be downloaded here: https://github.com/Linfeng-Tang/MSRS
 Place the downloaded training dataset under: train/MSRS path.
 
-The model we trained on the MSRS dataset can be downloaded here:https://drive.google.com/file/d/1Y-wGVcw0cTHcG4OTv6SgGsavRHDGMCqp/view?usp=sharing
+The model we trained on the MSRS dataset can be downloaded here:https://drive.google.com/file/d/1Y-wGVcw0cTHcG4OTv6SgGsavRHDGMCqp/view?usp=sharing. Place it in the checkpoints directory.
 
 ## To Train 
 Run "** python train.py**" to train your model.
