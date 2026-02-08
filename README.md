@@ -32,13 +32,15 @@ The results of the fusion of deformed IR and visible images on the M3FD test set
 The results of the fusion of deformed IR and visible images on the MFNet test set can be downloaded at the following link:https://drive.google.com/file/d/1J4syi8o5K4gEQcg1AcOu7U4_G-QRoMv1/view?usp=drive_link
 
 ## References
-[1]L. Tang, J. Yuan, J. Ma, Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network, Information Fusion 82 (2022) 28–42. https://doi.org/10.1016/j.inffus.2021.12.004.
+[1]J. Liu, R. Lin, G. Wu, R. Liu, Z. Luo, X. Fan, CoCoNet: Coupled Contrastive Learning Network with Multi-level Feature Ensemble for Multi-modality Image Fusion, Int J Comput Vis 132 (2024) 1748–1775. https://doi.org/10.1007/s11263-023-01952-1.
 
-[2]D. Wang, J. Liu, X. Fan, R. Liu, Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration, (2022). https://doi.org/10.48550/arXiv.2205.11876.
+[2]L. Tang, J. Yuan, J. Ma, Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network, Information Fusion 82 (2022) 28–42. https://doi.org/10.1016/j.inffus.2021.12.004.
 
-[3]C. Wang, H. Wu, Z. Jin, FourLLIE: Boosting Low-Light Image Enhancement by Fourier Frequency Information, in: Proceedings of the 31st ACM International Conference on Multimedia, ACM, Ottawa ON Canada, 2023: pp. 7459–7469. https://doi.org/10.1145/3581783.3611909.
+[3]D. Wang, J. Liu, X. Fan, R. Liu, Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration, (2022). https://doi.org/10.48550/arXiv.2205.11876.
 
-[4]Z. Zhang, H. Li, T. Xu, X.-J. Wu, J. Kittler, DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and Bézier curves, Information Fusion 114 (2025) 102655. https://doi.org/10.1016/j.inffus.2024.102655.
+[4]C. Wang, H. Wu, Z. Jin, FourLLIE: Boosting Low-Light Image Enhancement by Fourier Frequency Information, in: Proceedings of the 31st ACM International Conference on Multimedia, ACM, Ottawa ON Canada, 2023: pp. 7459–7469. https://doi.org/10.1145/3581783.3611909.
+
+[4]J. Liu, X. Fan, Z. Huang, G. Wu, R. Liu, W. Zhong, Z. Luo, Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible for Object Detection, in: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022: pp. 5792–5801. https://doi.org/10.1109/CVPR52688.2022.00571.
 
 [5]L. Tang, J. Yuan, H. Zhang, X. Jiang, J. Ma, PIAFusion: A progressive infrared and visible image fusion network based on illumination aware, Information Fusion 83–84 (2022) 79–92. https://doi.org/10.1016/j.inffus.2022.03.007.
 
