@@ -1,4 +1,4 @@
-# RAWFusion
+# FDAFusion
 Code of FDAFusion:A Frequency-Domain Amplitude-Phase Modulation-Based Method for Infrared and Visible Image Fusion
 
 ## Tips:<br>
