@@ -84,7 +84,6 @@ def laplacian_loss(pred, ref):
 
 
 
-
 def get_amplitude(img):
     fft = torch.fft.fft2(img, norm="ortho")
     amp = torch.abs(fft)
@@ -223,7 +222,7 @@ def train(config):
                 mask
             )
 
-            loss = 20 * loss_fusion[0] + 0.001 * loss_amp + 0.02 * loss_phase + 2 * loss_mask
+            loss = loss_fusion[0] + 0.001 * loss_amp + 0.02 * loss_phase + 2 * loss_mask
 
             loss.backward()
             optimizer.step()
